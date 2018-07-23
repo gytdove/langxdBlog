@@ -1,4 +1,4 @@
-# 对于产品的一些思考得 #
+# 对于产品的一些思考 #
 ![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20back.jpg?raw=true)
 
 很久之前就想过写一份博客，但是一直没有合适的平台，作为一名产品兼项目管理者，多年的工作也让我积攒许多丰富的经验。
