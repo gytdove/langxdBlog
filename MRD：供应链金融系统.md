@@ -89,6 +89,9 @@ SWOT分析 | 线下有服务站并且打通了部分产业链<br>工资资金实
 
 ![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G1.png?raw=true)
 
+<div align=center>
+![图片描述](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G1.png?raw=true)
+
 ##### 4.1.2 竞品战略
 众链云是一个创新性的互联网金融服务商，定位于专注B2B电商行业的供应链金融服务平台。
 
