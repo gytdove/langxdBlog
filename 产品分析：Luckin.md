@@ -30,7 +30,7 @@
 
 <html>
 <div align="center">
-     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin4.jpg?raw=true"/></center>
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin4.png?raw=true"/></center>
 </div>
 </html>
 
