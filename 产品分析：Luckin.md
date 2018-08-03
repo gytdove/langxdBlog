@@ -1,11 +1,22 @@
 这一阵linkin咖啡非常火，我也抽空定了一杯感受一下，说实话，咖啡并不好喝，不过营销和逼格做的还算不错，正好到了周末，作为产品经理我试着从产品方向分析一下。
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin2.jpg?raw=true)
+
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin2.jpg?raw=true"/></center>
+</div>
+</html>
+
 在 luckin Coffee 出现之前，用户怎么喝咖啡呢？
 - **方式一 喝现磨咖啡**：去星巴克、costa店内，一边喝咖啡一边谈事情；或者手机APP外卖，不出门，享受20+元咖啡
 - **方式二 喝罐装咖啡**：雀巢、贝纳瑞随手携带，5元内完美搞定
 
 大家都在说luckin咖啡是新零售的代表，颠覆了传统的咖啡行业。下图，对比了下luckin和其他咖啡连锁的模式：
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin3.png?raw=true)
+
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin3.jpg?raw=true"/></center>
+</div>
+</html>
 
 **可以看到：需求场景、产品形态、售卖方式和传统咖啡连锁相比，根本就没有多大的差别啊！**
 
@@ -16,7 +27,12 @@
 > luckin颠覆的关键在于“10亿元投入教育市场”，而不在于低价、线上线下一体化等。
 
 粗暴的把整个咖啡的产业链分为三段，来看下luckin分别做了啥？
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin4.png?raw=true)
+
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin4.jpg?raw=true"/></center>
+</div>
+</html>
 
 **生产侧**：指咖啡原料的选购、采买，制作等。luckin提高供应链能力，咖啡好，却低价格。
 
@@ -50,7 +66,12 @@ Costa 3.1亿人民币收购合资企业49%股权，全资拥有中国南方市�
 
 1. 增加目标咖啡用户（图中关键点2、3）：将速溶咖啡用户、劣质咖啡用户的消费水平升级为现磨咖啡用户；针对于泛饮品用户（非咖啡用户）培养用户习惯，变为咖啡用户
 2. 改变咖啡购买偏好（图中关键点1）：当用户想到的咖啡的时候，会惯性的选择luckin
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin5.png?raw=true)
+ 
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin5.png?raw=true"/></center>
+</div>
+</html>
 
 正是做到了这两点，才提高了整体的消费市场，把中国市场变成了一片蓝海。
 #### 1. 增加目标咖啡用户：如何让非目标用户痛起来？
@@ -67,7 +88,11 @@ luckin更大的野心是速溶咖啡、茶饮的份额。
 
 我们可以看一个小白咖啡用户的理想成长过程。首先，我通过同事或者其他途径，了解了这个咖啡，甚至尝了一口。觉得还不错后，自己去买了一杯，过程中了解了多少钱、怎么买、是否购买方便等。后来就不断重复买一杯的行为，直到形成习惯。
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin6.png?raw=true)
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin6.png?raw=true"/></center>
+</div>
+</html>
 
 所以，激发用户养成习惯，也就是要在上面说的每一个环节减少用户的习得成本，激励用户完成行为
 
@@ -81,7 +106,11 @@ luckin更大的野心是速溶咖啡、茶饮的份额。
 
 针对于luckin教育市场的目的，需要最大的渗透咖啡服务场景到用户中。增加场景渗透，**也就是不管你想不想喝咖啡，你都可以看到luckin。无时无刻，任何地方。**
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin7.png?raw=true)
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin7.png?raw=true"/></center>
+</div>
+</html>
 
 所以，来看下，luckin针对用户不同的咖啡使用场景进行了哪些流量布局。
 
@@ -91,13 +120,21 @@ luckin更大的野心是速溶咖啡、茶饮的份额。
 #### 2. 改变咖啡购买偏好：如何让目标用户痛点从“喝咖啡”到“喝luckin”
 咖啡用户，是指已经有咖啡习惯和咖啡偏好的用户。他们有购买一杯咖啡的需求。针对于这些用户如，如何让他们选择luckin呢？
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin8.png?raw=true)
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin8.png?raw=true"/></center>
+</div>
+</html>
 
 **首先，我们看下咖啡这个品类的特点**！咖啡根据用户的购买行为分类属于便利品。也就是用户频繁购买和随时购买的产品。一般我们在街边便利店看到的产品基本都属于这个大分类里面。
 
 问个小问题：“**饼干**”**和**“**盐**”同样都属于便利品的分类，但是你的购买行为是相同的么？
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin9.png?raw=true)
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin9.png?raw=true"/></center>
+</div>
+</html>
 
 **“饼干”的购买行为**：当你想吃饼干的时候你是忠诚于某一个品牌么？不会的，饼干的选择性太多了。苏打饼干、巧克力饼干、奥利奥等数不胜数。就算你喜欢苏打饼干，那芥末味、香葱味等等口味选择也是烟花缭乱。所以“饼干”类的产品，品类的多样性至关重要。因为用户总是try一下不同的。
 
