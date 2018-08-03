@@ -87,10 +87,11 @@ SWOT分析 | 线下有服务站并且打通了部分产业链<br>工资资金实
 软件著作权：众链云供应链综合信息采集系统，众链云B2B电商精英综合竞争力评估系统，众链云供应链企业大数据征信系统等。
 侧重点：物流实力和资金实力雄厚。
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G1.png?raw=true)
-
-<div align=center>
-![图片描述](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G1.png?raw=true)</div>
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G1.png?raw=true"/></center>
+</div>
+</html>
 
 ##### 4.1.2 竞品战略
 众链云是一个创新性的互联网金融服务商，定位于专注B2B电商行业的供应链金融服务平台。
@@ -121,7 +122,13 @@ SWOT分析 | 线下有服务站并且打通了部分产业链<br>工资资金实
 
 从公司背景上来看是所有竞品里最雄厚的，既接受过国企的投资，也和国企一起投资过，而且合作过的国企背景都很大。投资国成都国际铁路港投资发展有限公司，成都国际铁路班列有限公司，成都国际陆港有限公司等物流国企，所以对整个供应链的把控能力远超他人。
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G2.png?raw=true)
+
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G2.png?raw=true"/></center>
+</div>
+</html>
+
 
 ##### 4.2.2 竞品战略
 联合利丰为企业降低采购成本，帮助企业用小资金撬动大生意，提高生产企业的资金效率，使胜场企业能专注于生产及研发，提高核心竞争力。
@@ -159,11 +166,19 @@ SWOT分析 | 线下有服务站并且打通了部分产业链<br>工资资金实
 
 平安银行名声在外，知名度特别高，有国家及银行作为背书，实力雄厚，不用担心被违约。
 
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G3.png?raw=true)
-
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G4.png?raw=true)
-
-![image](https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G5.png?raw=true)
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G3.png?raw=true"/></center>
+</div>
+</html><html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G4.png?raw=true"/></center>
+</div>
+</html><html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0803%20G5.png?raw=true"/></center>
+</div>
+</html>
 
 ##### 4.3.2 竞品战略
 平安银行与核心企业、监管方合作，通过我行线上融资平台、核心企业电子商务平台和监管方仓储监管平台等多方在线协同，为供应链下游企业提供的一项全流程在线预付款融资产品/服务和供应链上下游的管理。
