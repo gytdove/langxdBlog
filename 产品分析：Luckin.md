@@ -14,7 +14,7 @@
 
 <html>
 <div align="center">
-     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin3.jpg?raw=true"/></center>
+     <center><img id="myImage1" align="center" src="https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0723%20luckin3.png?raw=true"/></center>
 </div>
 </html>
 
