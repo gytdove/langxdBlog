@@ -371,19 +371,63 @@ SWOT分析 | 线下有服务站并且打通了部分产业链<br>工资资金实
 
 **第三阶段：基于全链路信息化及中台能力，建立全局数据运营体系，推动传统企业数据决策、产品效果跟踪评估、生产预估、人员管控目标。实现以企业业务为窗口，面对不同客户时，能够自动识别并精准匹配企业产品服务。**
 
+#### 6.2 餐饮供应链
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin1.png?raw=true"/></center>
+</div>
+</html><html>
 
+##### 6.2.1 模式一：门店-总店
 
+一些规模较小的非连锁商户，通常不会有区域的配送中心这一结构。或者在实际场景中，总店有仓库可以贮存部分库存，简单地“兼任”配送中心这一环节，成为了品牌整体管理和销售品项的集合体。这些类型的商户使用供应链更注重的是单店个体的进销存功能，而这个“销”则主要体现在总店直接对门店销售。
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin2.png?raw=true"/></center>
+</div>
+</html><html>
 
+##### 6.2.2 模式二：门店-配送中心
 
+配送中心通常可以理解为一个货物的集散中心，会贮存一定量保存条件较低、保质期较长、门店高频需要，但为了品质把关又不许门店自行采购的品项库存。
 
+当门店向配送中心下单，配送中心可以直接从库存中销售发货，无需先向供应商下采购订单采购。
 
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin3.png?raw=true"/></center>
+</div>
+</html><html>
 
+##### 6.2.3 模式三：门店-配送中心-供应商-门店
 
+上面说到有些品项配送中心会常存，但是像一些生鲜等，新鲜程度要求高、存储成本更高，但又不能放任门店自行采购，就会产生这种“门店——配送中心——供应商——门店”模式，即门店订货，配送中心收到订货需求，再向供应商采购，由供应商直接配送到门店。
 
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin4.png?raw=true"/></center>
+</div>
+</html><html>
 
+##### 6.2.4 模式四：门店-配送中心-中央厨房-门店
 
+如果供应链系统足够强大，可以把中央厨房也纳入系统中，则可以支持这一整套模式。而中央厨房的加入，会使得流程变的更为复杂，一般是中央厨房接单生产，库存不足时自行采购，最起码会涉及订单管理、进销存管理、加工卡管理等。而实际场景中，中央厨房的出品既有可能直接配送给门店，也会配送给配送中心，仅是进销存的管理设计复杂程度就不亚于配送中心。
 
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin5.png?raw=true"/></center>
+</div>
+</html><html>
 
+##### 6.2.5 模式五：门店/中央厨房/配送中心-供应商
+
+其实除了上面提到的协作采销方式外，还有一种最基本的方式，就是各个主体自己去向外部供应商采购。不过目前很多餐饮供应链系统中，外部供应商端为第三方，不在系统内，所以供应商销售给门店／配送中心／中央厨房的行为一般在系统内只体现于采购订单和采购入库单中，供应商的销售行为则不在系统内。
+
+<html>
+<div align="center">
+     <center><img id="myImage1" align="center" src=https://github.com/gytdove/langxdBlog/blob/master/Picture/2018/0809%20canyin6.png?raw=true"/></center>
+</div>
+</html><html>
 
 
 
